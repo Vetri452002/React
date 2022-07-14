@@ -1,0 +1,9 @@
+const JSX = <div>
+<h1>Marvel</h1>
+<p>Avengers</p>
+<ul>
+<li>Thor</li>
+<li>Captain America</li>
+<li>IronMan</li>
+</ul>
+</div>
